@@ -55,9 +55,13 @@ Powered by: [JSONResume](https://jsonresume.org/) + Engineering [Theme](https://
 
     ![push](assets/push.gif)
 
+---
+
 All done! You'll be able to access your live site at `https://<github_username>.github.io/google-resume`
 
 Check your Actions tab to see if its running correctly.
+
+![resume](assets/resume.gif)
 
 ## Advanced (Optional)
 
